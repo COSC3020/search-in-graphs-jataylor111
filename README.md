@@ -22,6 +22,9 @@ code, but you can base yours on test code from other exercises.
 What is the worst-case big $\Theta$ complexity of your implementation? Add your
 answer, including your reasoning, to this markdown file.
 
+## My Response
+The worst case complexity should be $\Theta(V + E)$ because in the worst case scenario in order to find the correct node it will have had to visit every single other node and every single edge once.
+
 ## Bonus
 
 Implement and analyze breadth-first search.
